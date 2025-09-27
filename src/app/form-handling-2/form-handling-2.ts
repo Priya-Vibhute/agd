@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, Validators, FormsModule, ReactiveFormsModule } from '@angular/forms';
 
+
 @Component({
   selector: 'app-form-handling-2',
   imports: [FormsModule,ReactiveFormsModule,CommonModule],
